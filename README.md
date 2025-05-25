@@ -1,0 +1,1 @@
+Esta Pagina de HTML se Trata sobre mi Biografia (Thiago Kenny) la cual muestra una breve informacion sobre mi, gustos de musica, comida y peliculas. Tambien podemos Encontrar En la Segunda rama del Repositorio Una Actualizacion a la Pagina y 15 Commits realizados en la misma.
